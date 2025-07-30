@@ -30,6 +30,7 @@
   "scripts": {
     "start": "set NODE_OPTIONS=--openssl-legacy-provider && craco start",
     "build": "craco build",
+    "vercel-build": "npm install --legacy-peer-deps && npm run build",
     "test": "craco test",
     "eject": "react-scripts eject"
   },
