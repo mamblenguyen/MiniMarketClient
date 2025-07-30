@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "title": "Đường dây hỗ trợ Dược phẩm",
+    "description": "Bạn cần câu trả lời về thuốc kê đơn? Chúng tôi luôn sẵn sàng 24 giờ mỗi ngày, tất cả các ngày trong tuần. Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga quisquam ducimus quia! Et excepturi ut voluptatem. Fugit, perferendis expedita dolorum non veritatis repudiandae minima recusandae maxime corrupti a sunt dicta accusamus exercitationem molestias totam, et voluptatem laboriosam ducimus quis dignissimos, accusantium in. Corrupti, aperiam! Hic facilis inventore quaerat consectetur praesentium eius, itaque, tempora laborum, perferendis eos enim qui dolore quisquam libero porro vero quasi? Quam quia laborum earum quisquam cum officiis, dicta voluptate perspiciatis dolores molestiae eum maxime aliquid iste sunt hic, facilis recusandae ducimus. Neque similique, vero ea possimus eos totam aliquid repudiandae eum enim quasi harum, corporis sequi!",
+    "icon": "../assets/services/005-hot-line.png",
+    "image": "../assets/services/image/service-1.jpg",
+    "contactno": "1-800-238-6279",
+    "email": "phamipharma@gmail.com",
+    "facebook": "https://www.facebook.com",
+    "instagram": "https://www.instagram.com"
+  },
+  {
+    "id": 2,
+    "title": "Công cụ kê đơn thuốc",
+    "description": "Tìm kiếm danh sách thuốc ưu tiên của chúng tôi. Tìm thông báo chính sách lâm sàng của nhà thuốc, hoặc tìm kiếm danh sách thuốc ưu tiên. Hoặc tìm hiểu thêm về kê đơn điện tử. Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga quisquam ducimus quia! Et excepturi ut voluptatem. Fugit, perferendis expedita dolorum non veritatis repudiandae minima recusandae maxime corrupti a sunt dicta accusamus exercitationem molestias totam, et voluptatem laboriosam ducimus quis dignissimos, accusantium in. Corrupti, aperiam! Hic facilis inventore quaerat consectetur praesentium eius, itaque, tempora laborum, perferendis eos enim qui dolore quisquam libero porro vero quasi? Quam quia laborum earum quisquam cum officiis, dicta voluptate perspiciatis dolores molestiae eum maxime aliquid iste sunt hic, facilis recusandae ducimus. Neque similique, vero ea possimus eos totam aliquid repudiandae eum enim quasi harum, corporis sequi!",
+    "icon": "../assets/services/004-tools.png",
+    "image": "../assets/services/image/service-2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Thuốc chuyên khoa",
+    "description": "Một số bệnh nhân cần thuốc chuyên khoa cho các bệnh mãn tính hoặc phức tạp. Nhà thuốc chuyên khoa trong mạng lưới có thể cung cấp những loại thuốc này nhanh chóng với chi phí hợp lý. Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga quisquam ducimus quia! Et excepturi ut voluptatem. Fugit, perferendis expedita dolorum non veritatis repudiandae minima recusandae maxime corrupti a sunt dicta accusamus exercitationem molestias totam, et voluptatem laboriosam ducimus quis dignissimos, accusantium in. Corrupti, aperiam! Hic facilis inventore quaerat consectetur praesentium eius, itaque, tempora laborum, perferendis eos enim qui dolore quisquam libero porro vero quasi? Quam quia laborum earum quisquam cum officiis, dicta voluptate perspiciatis dolores molestiae eum maxime aliquid iste sunt hic, facilis recusandae ducimus. Neque similique, vero ea possimus eos totam aliquid repudiandae eum enim quasi harum, corporis sequi!",
+    "icon": "../assets/services/006-medical-care.png",
+    "image": "../assets/services/image/service-3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Yêu cầu từ nhà thuốc",
+    "description": "Tìm kiếm danh sách thuốc ưu tiên của chúng tôi. Tìm thông báo chính sách lâm sàng của nhà thuốc, hoặc tìm kiếm danh sách thuốc ưu tiên. Hoặc tìm hiểu thêm về kê đơn điện tử. Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga quisquam ducimus quia! Et excepturi ut voluptatem. Fugit, perferendis expedita dolorum non veritatis repudiandae minima recusandae maxime corrupti a sunt dicta accusamus exercitationem molestias totam, et voluptatem laboriosam ducimus quis dignissimos, accusantium in. Corrupti, aperiam! Hic facilis inventore quaerat consectetur praesentium eius, itaque, tempora laborum, perferendis eos enim qui dolore quisquam libero porro vero quasi? Quam quia laborum earum quisquam cum officiis, dicta voluptate perspiciatis dolores molestiae eum maxime aliquid iste sunt hic, facilis recusandae ducimus. Neque similique, vero ea possimus eos totam aliquid repudiandae eum enim quasi harum, corporis sequi!",
+    "icon": "../assets/services/002-medicine.png",
+    "image": "../assets/services/image/service-4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Đăng nhập cổng nhà cung cấp của chúng tôi",
+    "description": "Cổng nhà cung cấp có thông tin và công cụ để hoàn thành các giao dịch thời gian thực cùng với các công cụ hành chính và tài chính. Bạn có thể: ipsum dolor sit amet consectetur adipisicing elit. Fuga quisquam ducimus quia! Et excepturi ut voluptatem. Fugit, perferendis expedita dolorum non veritatis repudiandae minima recusandae maxime corrupti a sunt dicta accusamus exercitationem molestias totam, et voluptatem laboriosam ducimus quis dignissimos, accusantium in. Corrupti, aperiam! Hic facilis inventore quaerat consectetur praesentium eius, itaque, tempora laborum, perferendis eos enim qui dolore quisquam libero porro vero quasi? Quam quia laborum earum quisquam cum officiis, dicta voluptate perspiciatis dolores molestiae eum maxime aliquid iste sunt hic, facilis recusandae ducimus. Neque similique, vero ea possimus eos totam aliquid repudiandae eum enim quasi harum, corporis sequi!",
+    "icon": "../assets/services/001-portal.png",
+    "image": "../assets/services/image/service-5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Chứng nhận nhà thuốc URAC của chúng tôi",
+    "description": "URAC là một tổ chức chứng nhận chăm sóc sức khỏe độc lập, phi lợi nhuận, cam kết nâng cao chất lượng chăm sóc sức khỏe thông qua chứng nhận, giáo dục và đo lường. Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga quisquam ducimus quia! Et excepturi ut voluptatem. Fugit, perferendis expedita dolorum non veritatis repudiandae minima recusandae maxime corrupti a sunt dicta accusamus exercitationem molestias totam, et voluptatem laboriosam ducimus quis dignissimos, accusantium in. Corrupti, aperiam! Hic facilis inventore quaerat consectetur praesentium eius, itaque, tempora laborum, perferendis eos enim qui dolore quisquam libero porro vero quasi? Quam quia laborum earum quisquam cum officiis, dicta voluptate perspiciatis dolores molestiae eum maxime aliquid iste sunt hic, facilis recusandae ducimus. Neque similique, vero ea possimus eos totam aliquid repudiandae eum enim quasi harum, corporis sequi!",
+    "icon": "../assets/services/007-injection.png",
+    "image": "../assets/services/image/service-6.jpg"
+  }
+]
